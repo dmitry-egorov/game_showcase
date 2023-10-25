@@ -99,7 +99,7 @@ Casual city-builder. Joined as a lead programmer after a year of development.
 ![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141833.png)
 
 ## Robogear: Tales of Hazard
-Third preson shooter with giant robots. Worked in a team as a junior developer.
+Third preson shooter with giant robots. Worked as a junior developer.
 
 ![Robogear](https://github.com/dmitry-egorov/game_showcase/blob/main/robogear/robogear.jpg)
 
