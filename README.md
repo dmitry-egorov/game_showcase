@@ -45,7 +45,7 @@ Space visuals experiment using shaders. Solo programming and art.
 
 Futuristic city-bulder. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
 
-[Source Code](https://github.com/dmitry-egorov/hyperway_light) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/hyperway)
+[Source Code](https://github.com/dmitry-egorov/hyperway_light) - [Gameplay Video](https://github.com/dmitry-egorov/game_showcase/blob/main/hyperway/movie_001.mp4) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/hyperway)
 
 ![Hyperway](https://github.com/dmitry-egorov/game_showcase/blob/main/hyperway/hyperway1.png)
 
