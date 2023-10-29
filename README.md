@@ -65,7 +65,7 @@ A simple Flappy Bird-like with a twist. Released on App Store and Google Play St
 
 An experiment in visual storytelling with isometric platformer mechanics. Solo programming and art.
 
-[Source Code](https://github.com/dmitry-egorov/tiny_cube)
+[Source Code](https://github.com/dmitry-egorov/tiny_cube) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/cubic)
 
 <img src="https://github.com/dmitry-egorov/game_showcase/blob/main/cubic/photo_2023-10-14_21-32-44.jpg" width="400" />
 
