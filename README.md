@@ -105,7 +105,7 @@ Educational game for children age 6 and up. Formed the vision, hired and directe
 
 Casual city-builder. Joined as a lead programmer after a year of development in a team of 10 people.
 
-[VKontakte App](https://vk.com/games/app5928560)
+[VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
 
 ![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141916.png)
 
