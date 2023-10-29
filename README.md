@@ -15,7 +15,7 @@ City-builder with a massive number of entities. Unity ECS experiment. Solo progr
 
 ![Snow Storm](https://github.com/dmitry-egorov/game_showcase/blob/main/snow_storm/gif_animation_002.gif)
 
-## Franca 2
+## Franca
 Experimental programming system/language. Solo programming.
 
 [Source Code](https://github.com/dmitry-egorov/franca2)
@@ -23,12 +23,14 @@ Experimental programming system/language. Solo programming.
 ## Phase Drive
 Space visuals experiment using shaders. Solo programming and art.
 
-[Source Code](https://github.com/dmitry-egorov/phase_drive) - [Background Shader](https://www.shadertoy.com/view/wsSGR1)
+[Source Code](https://github.com/dmitry-egorov/phase_drive) - [Background ShaderToy](https://www.shadertoy.com/view/wsSGR1)
 
 ![Phase Drive](https://github.com/dmitry-egorov/game_showcase/blob/main/phase_drive/ark_one.gif)
 
-## Hyperway 2
+## Hyperway
 Futuristic city-bulder. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
+
+[Source Code](https://github.com/dmitry-egorov/hyperway_light)
 
 ![Hyperway](https://github.com/dmitry-egorov/game_showcase/blob/main/hyperway/hyperway1.png)
 
@@ -41,6 +43,8 @@ A simple Flappy Bird-like with a twist. Released on App Store and Google Play St
 
 ## Tiny Cube
 An experiment in visual storytelling with isometric platformer mechanics. Solo programming and art.
+
+[Source Code](https://github.com/dmitry-egorov/tiny_cube)
 
 <img src="https://github.com/dmitry-egorov/game_showcase/blob/main/cubic/photo_2023-10-14_21-32-44.jpg" width="400" />
 
