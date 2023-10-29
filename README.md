@@ -11,9 +11,11 @@ Experimenting with massive number of units with simple visuals. Inspired by Tota
 ![Distant Wars](https://github.com/dmitry-egorov/game_showcase/blob/main/massive/massive.gif)
 
 ## Snow Storm
-City-builder with a massive number of entities. Unity ECS experiment. No art, so no screenshots, sorry. Solo programming.
+City-builder with a massive number of entities. Unity ECS experiment. Solo programming.
 
 [https://github.com/dmitry-egorov/snow_storm_ecs](https://github.com/dmitry-egorov/snow_storm_ecs)
+
+![Snow Storm](https://github.com/dmitry-egorov/game_showcase/blob/main/snow_storm/gif_animation_002.gif)
 
 ## Franca 2
 Experimental programming system/language. Solo programming.
