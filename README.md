@@ -3,7 +3,7 @@
 
 2019
 
-Experimenting with massive number of units with simple visuals. Inspired by Total Annihilation and Supreme Commander. Solo programming and art.
+Experimenting with massive number of units and simple visuals. Inspired by Total Annihilation and Supreme Commander. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/distant_wars) - [High Res Video](https://github.com/dmitry-egorov/game_showcase/blob/main/massive/1.mov)
 
@@ -15,7 +15,7 @@ Experimenting with massive number of units with simple visuals. Inspired by Tota
 
 2021
 
-City-builder with a massive number of entities. Unity ECS experiment. Solo programming.
+City-builder with massive number of entities. Unity ECS experiment. Solo programming.
 
 [Source Code](https://github.com/dmitry-egorov/snow_storm_ecs)
 
