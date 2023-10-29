@@ -35,7 +35,7 @@ Experimental programming system/language. Solo programming.
 
 Space visuals experiment using shaders. Solo programming and art.
 
-[Source Code](https://github.com/dmitry-egorov/phase_drive) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/blob/main/phase_drive/README.MD) - [Background ShaderToy](https://www.shadertoy.com/view/wsSGR1)
+[Source Code](https://github.com/dmitry-egorov/phase_drive) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/phase_drive) - [Background ShaderToy](https://www.shadertoy.com/view/wsSGR1)
 
 ![Phase Drive](https://github.com/dmitry-egorov/game_showcase/blob/main/phase_drive/ark_one.gif)
 
@@ -55,7 +55,7 @@ Futuristic city-bulder. Traveling on a train through a planet, building settleme
 
 A simple Flappy Bird-like with a twist. Released on App Store and Google Play Store at the time. Solo programming, art and music.
 
-[Facebook page](https://www.facebook.com/earthflowstargazer)
+[Facebook page](https://www.facebook.com/earthflowstargazer) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/earthflow)
 
 <img src="https://github.com/dmitry-egorov/game_showcase/blob/main/earthflow/20280314_105896726761478_1609440456278557738_o.png" width="400" />
 
