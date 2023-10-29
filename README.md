@@ -1,15 +1,5 @@
 # Game Showcase
 
-## Earthflow: Fate of the Stargazer
-
-2017
-
-A simple Flappy Bird-like with a twist. Released on App Store and Google Play Store at the time. Solo programming, art and music.
-
-[Facebook page](https://www.facebook.com/earthflowstargazer) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/earthflow)
-
-<img src="https://github.com/dmitry-egorov/game_showcase/blob/main/earthflow/20280314_105896726761478_1609440456278557738_o.png" width="400" />
-
 ## Coloring App
 
 2023
@@ -19,6 +9,36 @@ Relaxing coloring app for adults. Solo programming and design, with some help fo
 [Microsoft Store Page](https://apps.microsoft.com/detail/9PKTR891Z0XG)
 
 ![Coloring App](https://github.com/dmitry-egorov/game_showcase/blob/main/coloring/coloring.png)
+
+## Living Books
+
+2022
+
+Educational game for children age 6 and up. Formed the vision, hired and directed a team of up to 10 people.
+
+[App](https://book.living-books.org/)
+
+![Living Books](https://github.com/dmitry-egorov/game_showcase/blob/main/living_books/living_book.png)
+
+## Fairy City
+
+2018
+
+Casual city-builder. Joined as a lead programmer after a year of development in a team of 10 people.
+
+[VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
+
+![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141916.png)
+
+## Earthflow: Fate of the Stargazer
+
+2017
+
+A simple Flappy Bird-like with a twist. Released on App Store and Google Play Store at the time. Solo programming, art and music.
+
+[Facebook page](https://www.facebook.com/earthflowstargazer) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/earthflow)
+
+<img src="https://github.com/dmitry-egorov/game_showcase/blob/main/earthflow/20280314_105896726761478_1609440456278557738_o.png" width="400" />
 
 ## Phase Drive
 
@@ -60,37 +80,7 @@ Experimental programming system/language. Solo programming.
 
 [Source Code](https://github.com/dmitry-egorov/franca2)
 
-![Franca](https://github.com/dmitry-egorov/game_showcase/blob/main/franca/Screenshot%202023-10-30%20050411.png)
-
-## Living Books
-
-2022
-
-Educational game for children age 6 and up. Formed the vision, hired and directed a team of up to 10 people.
-
-[App](https://book.living-books.org/)
-
-![Living Books](https://github.com/dmitry-egorov/game_showcase/blob/main/living_books/living_book.png)
-
-## Fairy City
-
-2018
-
-Casual city-builder. Joined as a lead programmer after a year of development in a team of 10 people.
-
-[VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
-
-![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141916.png)
-
-## Robogear: Tales of Hazard
-
-2006
-
-Third preson shooter with giant robots. Worked as a junior developer in a team of 10 people.
-
-[Screenshots](https://rawg.io/games/robogear-tales-of-hazard/screenshots)
-
-![Robogear](https://github.com/dmitry-egorov/game_showcase/blob/main/robogear/robogear.jpg)
+<img src="https://github.com/dmitry-egorov/game_showcase/blob/main/franca/Screenshot%202023-10-30%20050411.png" width="800" />
 
 ## Snow Storm
 
@@ -121,6 +111,16 @@ Tiny tactical game. Solo programming and art.
 [Source Code](https://github.com/dmitry-egorov/isometric_warp)
 
 ![Warp](https://github.com/dmitry-egorov/game_showcase/blob/main/isometric_warp/screen_1334x750_2017-09-22_15-32-12.png)
+
+## Robogear: Tales of Hazard
+
+2006
+
+Third preson shooter with giant robots. Worked as a junior developer in a team of 10 people.
+
+[Screenshots](https://rawg.io/games/robogear-tales-of-hazard/screenshots)
+
+![Robogear](https://github.com/dmitry-egorov/game_showcase/blob/main/robogear/robogear.jpg)
 
 ## My Music
 
