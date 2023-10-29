@@ -66,12 +66,12 @@ Educational game for children age 6 and up. Forming a vision, hiring and directi
 ![Living Books](https://github.com/dmitry-egorov/game_showcase/blob/main/living_books/living_book.png)
 
 ## Fairy City
-Casual city-builder. Joined as a lead programmer after a year of development.
+Casual city-builder. Joined as a lead programmer after a year of development in a team of 10 people.
 
 ![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141916.png)
 
 ## Robogear: Tales of Hazard
-Third preson shooter with giant robots. Worked as a junior developer.
+Third preson shooter with giant robots. Worked as a junior developer in a team of 10 people.
 
 ![Robogear](https://github.com/dmitry-egorov/game_showcase/blob/main/robogear/robogear.jpg)
 
