@@ -73,7 +73,7 @@ An experiment in visual storytelling with isometric platformer mechanics. Solo p
 
 2023
 
-Anti-stress app for adults. Solo programming and design, with some help for visuals.
+Relaxing coloring app for adults. Solo programming and design, with some help for visuals.
 
 [Microsoft Store Page](https://apps.microsoft.com/detail/9PKTR891Z0XG)
 
