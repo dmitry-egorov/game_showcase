@@ -14,7 +14,7 @@ Relaxing coloring app for adults. Solo programming and design, with some help fo
 
 2022
 
-Educational game for children age 6 and up. Formed the vision, hired and directed a team of up to 10 people.
+Educational game for children age 6 and up. Formed the vision, hired and directed a team of up to 10 people to an MVP.
 
 [App](https://book.living-books.org/)
 
