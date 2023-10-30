@@ -6,6 +6,8 @@
 
 Relaxing coloring app for adults. Solo programming and design, with some help for visuals.
 
+It has a fully custom gpu renderer written in C++ and HLSL with DirectX. It uses SDFs for the outlines and a tiled technique for the brush strokes. The renderer is asynchronous to make sure the input is never lost and the drawing experience is as smooth as possible. Optimized to run at a constant 60 fps on the lowest tier Microsoft tablets (Surface Go 1).
+
 [Microsoft Store Page](https://apps.microsoft.com/detail/9PKTR891Z0XG)
 
 ![Coloring App](https://github.com/dmitry-egorov/game_showcase/blob/main/coloring/coloring.png)
