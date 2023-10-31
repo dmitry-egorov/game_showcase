@@ -118,7 +118,7 @@ Tiny tactical game. Solo programming and art.
 
 2006
 
-Third preson shooter with giant robots. Worked as a junior developer in a team of 10 people.
+Third preson shooter with giant robots. Worked as a junior developer on the engine and the editor in a team of 10 people.
 
 [Screenshots](https://rawg.io/games/robogear-tales-of-hazard/screenshots)
 
