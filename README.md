@@ -4,9 +4,9 @@
 
 2023
 
-Relaxing coloring app for adults. Solo programming and design, with some help for visuals.
+Relaxing coloring app for adults, made with C++, HLSL and DirectX. Solo programming and design, with some help for visuals.
 
-Fully custom gpu renderer written in C++ and HLSL with DirectX. It uses SDFs for the outlines and a tiled technique for the brush strokes. It's asynchronous to make sure the input is never lost and the drawing experience is as smooth as possible. Optimized to run at a constant 60 fps on the lowest tier Microsoft tablets (Surface Go 1).
+Fully custom gpu renderer, that uses SDFs for the outlines and a tiled technique for the brush strokes. It's asynchronous to make sure the input is never lost and the drawing experience is as smooth as possible. Optimized to run at a constant 60 fps on the lowest tier Microsoft tablets (Surface Go 1).
 
 [Microsoft Store Page](https://apps.microsoft.com/detail/9PKTR891Z0XG)
 
@@ -16,7 +16,7 @@ Fully custom gpu renderer written in C++ and HLSL with DirectX. It uses SDFs for
 
 2022
 
-Educational game for children age 6 and up. Formed the vision, hired and directed a team of up to 10 people to an MVP.
+Educational game for children age 6 and up, made with Unity. Formed the vision, hired and directed a team of up to 10 people to an MVP.
 
 [App](https://book.living-books.org/)
 
@@ -26,7 +26,7 @@ Educational game for children age 6 and up. Formed the vision, hired and directe
 
 2018
 
-Casual city-builder. Joined as a lead programmer after a year of development in a team of 10 people.
+Casual city-builder, made with Unity. Joined as a lead programmer after a year of development in a team of 10 people.
 
 [VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
 
@@ -36,7 +36,7 @@ Casual city-builder. Joined as a lead programmer after a year of development in 
 
 2017
 
-A simple Flappy Bird-like with a twist. Released on App Store and Google Play Store at the time. Solo programming, art and music.
+A simple Flappy Bird-like with a twist, made with Unity. Released on App Store and Google Play Store. Solo programming, art and music.
 
 [Facebook page](https://www.facebook.com/earthflowstargazer) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/earthflow)
 
@@ -46,7 +46,7 @@ A simple Flappy Bird-like with a twist. Released on App Store and Google Play St
 
 2019
 
-Space visuals experiment using shaders. Solo programming and art.
+Space visuals experiment using shaders, made with Unity. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/phase_drive) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/phase_drive) - [Background ShaderToy](https://www.shadertoy.com/view/wsSGR1)
 
@@ -56,7 +56,7 @@ Space visuals experiment using shaders. Solo programming and art.
 
 2019
 
-Experimenting with massive number of units and simple visuals. Inspired by Total Annihilation and Supreme Commander. Solo programming and art.
+Experimenting with massive number of units and simple visuals, made with Unity. Inspired by Total Annihilation and Supreme Commander. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/distant_wars) - [High Res Video](https://github.com/dmitry-egorov/game_showcase/blob/main/massive/1.mov)
 
@@ -68,7 +68,7 @@ Experimenting with massive number of units and simple visuals. Inspired by Total
 
 2019
 
-An experiment in visual storytelling with isometric platformer mechanics. Solo programming and art.
+An experiment in visual storytelling with isometric platformer mechanics, made with Unity. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/tiny_cube) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/cubic)
 
@@ -78,7 +78,7 @@ An experiment in visual storytelling with isometric platformer mechanics. Solo p
 
 2023
 
-Experimental programming system/language. Solo programming.
+Experimental programming system/language, using C++, Emscripten and WebGPU. Solo programming.
 
 [Source Code](https://github.com/dmitry-egorov/franca2)
 
@@ -88,7 +88,7 @@ Experimental programming system/language. Solo programming.
 
 2021
 
-City-builder with massive number of entities. Unity ECS experiment. Solo programming.
+City-builder with massive number of entities, made with Unity ECS. Solo programming.
 
 [Source Code](https://github.com/dmitry-egorov/snow_storm_ecs)
 
@@ -98,7 +98,7 @@ City-builder with massive number of entities. Unity ECS experiment. Solo program
 
 2021
 
-Futuristic city-bulder. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
+Futuristic city-bulder, made with Unity. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/hyperway_light) - [Gameplay Video](https://github.com/dmitry-egorov/game_showcase/blob/main/hyperway/movie_001.mp4) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/hyperway)
 
@@ -108,7 +108,7 @@ Futuristic city-bulder. Traveling on a train through a planet, building settleme
 
 2017
 
-Tiny tactical game. Solo programming and art.
+Tiny tactical game, made with Unity. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/isometric_warp)
 
@@ -118,7 +118,7 @@ Tiny tactical game. Solo programming and art.
 
 2006
 
-Third preson shooter with giant robots. Worked as a junior developer on the engine and the editor in a team of 10 people.
+Third preson shooter with giant robots, made with C++ and DirectX. Worked as a junior developer on the engine and the editor in a team of 10 people.
 
 [Screenshots](https://rawg.io/games/robogear-tales-of-hazard/screenshots)
 
