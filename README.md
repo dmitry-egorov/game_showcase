@@ -46,7 +46,7 @@ A simple Flappy Bird-like with a twist, made with Unity. Released on App Store a
 
 2019
 
-Space visuals experiment using shaders, made with Unity. Solo programming and art.
+Procedural visuals experiment using shaders, made with Unity. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/phase_drive) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/phase_drive) - [Background ShaderToy](https://www.shadertoy.com/view/wsSGR1)
 
