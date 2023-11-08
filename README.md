@@ -4,7 +4,7 @@
 
 2023
 
-Relaxing coloring app for adults, made with C++, HLSL and DirectX. Solo programming and design, with some help for visuals.
+Relaxing coloring app for adults. The drawing engine is made with C++, HLSL and DirectX; UI and server with .NET/C#. Solo programming and design, with some help for visuals.
 
 Fully custom gpu renderer, that uses SDFs for the outlines and a tiled technique for the brush strokes. It's asynchronous to make sure the input is never lost and the drawing experience is as smooth as possible. Optimized to run at a constant 60 fps on the lowest tier Microsoft tablets (Surface Go 1).
 
