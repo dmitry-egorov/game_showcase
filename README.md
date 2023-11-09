@@ -16,7 +16,7 @@ Fully custom gpu renderer, that uses SDFs for the outlines and a tiled technique
 
 2022
 
-Educational game for children age 6 and up, made with Unity. Formed the vision, hired and directed a team of up to 10 people to an MVP.
+Educational game for children age 6 and up. The game is made with Unity, backend uses .NET and PostgreSQL. Formed the vision, hired and directed a team of up to 10 people to an MVP.
 
 [App](https://book.living-books.org/)
 
@@ -26,7 +26,7 @@ Educational game for children age 6 and up, made with Unity. Formed the vision, 
 
 2018
 
-Casual city-builder, made with Unity. Joined as a lead programmer after a year of development in a team of 10 people.
+Casual city-builder. The game is made with Unity, backend uses Java and PostgreSQL. Joined as a lead programmer after a year of development in a team of 10 people.
 
 [VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
 
