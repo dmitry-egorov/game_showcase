@@ -30,7 +30,7 @@ Casual city-builder. The game is made with Unity, backend uses Java and PostgreS
 
 [VKontakte App](https://vk.com/games/app5928560) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/fairy_city)
 
-![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/Screenshot%202023-09-14%20141916.png)
+![Fairy City](https://github.com/dmitry-egorov/game_showcase/blob/main/fairy_city/E9KxdY6m5pQ.jpg)
 
 ## Earthflow: Fate of the Stargazer
 
