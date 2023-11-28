@@ -98,7 +98,7 @@ City-builder with massive number of entities, made with Unity ECS. Solo programm
 
 2021
 
-Futuristic city-bulder, made with Unity. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
+Futuristic city-bulder, made with Unity and a custom ECS implementation. Traveling on a train through a planet, building settlements along the way to gather resources for further travel. Solo programming and art.
 
 [Source Code](https://github.com/dmitry-egorov/hyperway_light) - [Gameplay Video](https://github.com/dmitry-egorov/game_showcase/blob/main/hyperway/movie_001.mp4) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/hyperway)
 
