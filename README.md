@@ -36,7 +36,7 @@ Casual city-builder. The game is made with Unity, backend uses Java and PostgreS
 
 2017
 
-A simple Flappy Bird-like with a twist, made with Unity. Released on App Store and Google Play Store. Solo programming, art and music.
+A simple Flappy Bird-like with a twist, made with Unity. Released on the App Store and Google Play Store. Solo programming, art and music.
 
 [Facebook page](https://www.facebook.com/earthflowstargazer) - [More Screenshots](https://github.com/dmitry-egorov/game_showcase/tree/main/earthflow)
 
