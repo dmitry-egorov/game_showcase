@@ -16,7 +16,7 @@ Fully custom gpu renderer that uses SDFs for the outlines and a tiled technique 
 
 2022
 
-Educational game for children age 6 and up. The game is made with Unity, backend uses .NET and PostgreSQL. Formed the vision, hired and directed a team of up to 10 people to an MVP.
+Educational game for children age 6 and up. The game is made with Unity, backend uses .NET and PostgreSQL. Formed the vision, hired and directed a team of 10 people to an MVP.
 
 [App](https://book.living-books.org/)
 
