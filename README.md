@@ -4,7 +4,7 @@
 
 2024
 
-A rogue-lite citybuilder. Written from scratch in C++ with no engine and libraries. Uses only Vulkan, Win32 API and a tiny bit of stdlib.
+A rogue-lite citybuilder. Written from scratch in C++ with no engine or libraries. Uses only Vulkan, Win32 API and a tiny bit of stdlib.
 
 [Details](https://github.com/dmitry-egorov/game_showcase/tree/main/nomads) - [Example source file](https://github.com/dmitry-egorov/game_showcase/blob/main/nomads/gameplay.h)
 
